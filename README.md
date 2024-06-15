@@ -11,18 +11,18 @@
 </div>
 
 ## Perfil Profesional 
----
+
 Ingeniera Biomédica con sólida experiencia en la gestión de equipos y tecnología biomédica, así como en el ámbito de ventas. Poseo competencias avanzadas en análisis de datos, Machine Learning, SQL, Power BI y programación en Python. Mi enfoque proactivo y adaptable me permite enfrentar y resolver desafíos complejos a través de la interpretación y análisis de datos, mejorando la eficiencia operativa y alcanzando objetivos estratégicos.
 
 Soy apasionada por identificar oportunidades de mejora a través de la analítica de datos, lo que me permite contribuir al avance hacia las metas organizacionales. Además, mi experiencia en Machine Learning y ciencia de datos me capacita para desarrollar modelos predictivos y soluciones basadas en datos, proporcionando un valor añadido significativo a cualquier equipo o proyecto en el que participe. Busco un entorno dinámico y colaborativo donde pueda aplicar y ampliar mis habilidades analíticas, contribuyendo al crecimiento de la organización y mi desarrollo profesional continuo.
 
 ## Estudios
----
+
 * **Ingeniería Biomédica**, Instituto Tecnológico Metropolitano, con énfasis en metrología.
 * **Científica de Datos**, Bootcamp Henry, donde adquirí competencias avanzadas en análisis de datos y desarrollo de modelos predictivos.
 
 ## Experiencia Profesional
----
+
 ### Ingeniera Biomédica, Clínica Cardio VID
 Fecha: Septiembre 2020 - Marzo 2021
 
@@ -39,7 +39,6 @@ Fecha: 2024
 Aunque no tengo experiencia formal en una empresa como Científica de Datos, he dedicado tiempo significativo a la práctica y perfeccionamiento de mis habilidades técnicas en esta área. He trabajado en diversos proyectos personales y de formación, aplicando técnicas avanzadas de análisis de datos y Machine Learning para resolver problemas específicos.
 
 ## Tecnologías Utilizadas
----
 
 ### Lenguajes de Programación
 Python <img src="img/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -75,7 +74,7 @@ Markdown <img src="img/markdown-original.svg" title="Markdown" alt="Git" width="
 
 
 ## Proyectos
----
+
 A lo largo de mi formación y desarrollo profesional, he trabajado en diversos proyectos que me han permitido aplicar y mejorar mis conocimientos teóricos y prácticos en ciencia de datos y tecnologías relacionadas. Algunos de estos proyectos incluyen:
 
 *	[ML Recomendacion Juego](https://github.com/ylathan/MLRecomendacionJuego): Desarrollo de un modelo predictivo para crear un sistema de recomendación de juegos con el proposito de hacer recomendaciones personalizadas a sus clientes. Utilicé herramientas como Python, Pandas, y scikit-learn para analizar los datos y crear el modelo.
